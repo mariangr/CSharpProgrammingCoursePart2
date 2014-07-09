@@ -15,9 +15,8 @@ namespace Sequences
             int currentSeq = 1;
             int maxSeq = 1;
             string maxElement = "element";
-            int direction = 0;
 
-            //check all horizontal seqences going from left to right
+            //check all ROWS
             for (int rows = 0; rows < matrix.GetLength(0); rows++)
             {
                 for (int cols = 0; cols < matrix.GetLength(1) - 1; cols++)
@@ -35,13 +34,12 @@ namespace Sequences
                     {
                         maxSeq = currentSeq;
                         maxElement = matrix[rows, cols];
-                        direction = 1;
                     }
                 }
                 currentSeq = 1;
             }
 
-            //check all vertical sequenes going top down
+            //check all COLLUMNS
             for (int cols = 0; cols < matrix.GetLength(1); cols++)
             {
                 for (int rows = 0; rows < matrix.GetLength(0) - 1; rows++)
@@ -59,13 +57,12 @@ namespace Sequences
                     {
                         maxSeq = currentSeq;
                         maxElement = matrix[rows, cols];
-                        direction = 2;
                     }
                 }
                 currentSeq = 1;
             }
 
-            //check all diagonals going from top left to down right
+            //check all diagonals (/)
             for (int i = 0; i < matrix.GetLength(0) - 1; i++)
             {
                 for (int j = 0; j < matrix.GetLength(1) - 1; j++)
@@ -85,14 +82,13 @@ namespace Sequences
                         {
                             maxSeq = currentSeq;
                             maxElement = matrix[rows, cols];
-                            direction = 3;
                         }
                     }
                     currentSeq = 1;
                 }
             }
 
-            //check all diagonals going from top right to down left
+            //check all diagonals (\)
             for (int i = 0; i < matrix.GetLength(0) - 1; i++)
             {
                 for (int j = 1; j < matrix.GetLength(1); j++)
@@ -112,31 +108,17 @@ namespace Sequences
                         {
                             maxSeq = currentSeq;
                             maxElement = matrix[rows, cols];
-                            direction = 4;
                         }
                     }
                     currentSeq = 1;
                 }
             }
-
-            switch (direction)
+            Console.Write("{0}", maxElement);
+            for (int i = 1; i < maxSeq; i++)
             {
-                case 1:
-                    Console.WriteLine("Element \"{0}\" repeats {1} times horizontally.", maxElement, maxSeq);
-                    break;
-                case 2:
-                    Console.WriteLine("Element \"{0}\" repeats {1} times vertically.", maxElement, maxSeq);
-                    break;
-                case 3:
-                    Console.WriteLine("Element \"{0}\" repeats {1} times diagonally from top left to bottom right.", maxElement, maxSeq);
-                    break;
-                case 4:
-                    Console.WriteLine("Element \"{0}\" repeats {1} times diagonally from top right to bottom left.", maxElement, maxSeq);
-                    break;
-                default:
-                    Console.WriteLine("No repetitions of elements.");
-                    break;
+                Console.Write(", {0}", maxElement);
             }
+            Console.WriteLine();
         }
     }
 }

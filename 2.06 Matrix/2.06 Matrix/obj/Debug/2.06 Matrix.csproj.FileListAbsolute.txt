@@ -4,3 +4,6 @@ D:\Projects\C# 2\C# Programming Course - Part II\2.06 Matrix\2.06 Matrix\bin\Deb
 D:\Projects\C# 2\C# Programming Course - Part II\2.06 Matrix\2.06 Matrix\obj\Debug\2.06 Matrix.csprojResolveAssemblyReference.cache
 D:\Projects\C# 2\C# Programming Course - Part II\2.06 Matrix\2.06 Matrix\obj\Debug\2.06 Matrix.exe
 D:\Projects\C# 2\C# Programming Course - Part II\2.06 Matrix\2.06 Matrix\obj\Debug\2.06 Matrix.pdb
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\2.06 Matrix\2.06 Matrix\bin\Debug\2.06 Matrix.exe.config
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\2.06 Matrix\2.06 Matrix\obj\Debug\2.06 Matrix.exe
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\2.06 Matrix\2.06 Matrix\obj\Debug\2.06 Matrix.pdb

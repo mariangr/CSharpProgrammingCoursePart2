@@ -1,6 +1,0 @@
-C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\Zad 3\Zad 3\bin\Debug\Zad 3.exe.config
-C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\Zad 3\Zad 3\bin\Debug\Zad 3.exe
-C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\Zad 3\Zad 3\bin\Debug\Zad 3.pdb
-C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\Zad 3\Zad 3\obj\Debug\Zad 3.csprojResolveAssemblyReference.cache
-C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\Zad 3\Zad 3\obj\Debug\Zad 3.exe
-C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\Zad 3\Zad 3\obj\Debug\Zad 3.pdb
