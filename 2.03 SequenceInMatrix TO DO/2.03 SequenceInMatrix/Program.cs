@@ -36,7 +36,7 @@ namespace _2._03_SequenceInMatrix
             {
                 sequenceNumber = 1;
                 searchedNumber = array[i, 0];
-                for (int j = 0; j < col; j++)
+                for (int j = 1; j < col; j++)
                 {
                     
                     if (array[i,j] != searchedNumber)
@@ -44,6 +44,7 @@ namespace _2._03_SequenceInMatrix
                         if (maxSequenceNumber < sequenceNumber)
                         {
                             maxSequenceNumber = sequenceNumber;
+                            mostFrequentElement = searchedNumber;
                             Console.WriteLine("--" + maxSequenceNumber);
 
                         }
@@ -53,10 +54,10 @@ namespace _2._03_SequenceInMatrix
                     else
                     {
                         sequenceNumber++;
-                        if (maxSequenceNumber < sequenceNumber)
+                        /*if (maxSequenceNumber < sequenceNumber)
                         {
-                            mostFrequentElement = array[i, j];
-                        }
+                            mostFrequentElement = searchedNumber;
+                        }*/
                     }
                 }
             }
@@ -76,6 +77,7 @@ namespace _2._03_SequenceInMatrix
                         if (maxSequenceNumber < sequenceNumber)
                         {
                             maxSequenceNumber = sequenceNumber;
+                            mostFrequentElement = searchedNumber;
                             Console.WriteLine("|" + maxSequenceNumber);
                         }
                         searchedNumber = array[i, j];
@@ -84,10 +86,10 @@ namespace _2._03_SequenceInMatrix
                     else
                     {
                         sequenceNumber++;
-                        if (maxSequenceNumber < sequenceNumber)
+                       /* if (maxSequenceNumber < sequenceNumber)
                         {
-                            mostFrequentElement = array[i, j];
-                        }
+                            mostFrequentElement = searchedNumber;
+                        }*/
                     }
                 }
             }
