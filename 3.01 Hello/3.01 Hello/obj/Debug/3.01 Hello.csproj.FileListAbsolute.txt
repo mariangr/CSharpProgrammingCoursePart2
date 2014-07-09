@@ -1,0 +1,6 @@
+D:\Projects\C# 2\C# Programming Course - Part II\3.01 Hello\3.01 Hello\bin\Debug\3.01 Hello.exe.config
+D:\Projects\C# 2\C# Programming Course - Part II\3.01 Hello\3.01 Hello\bin\Debug\3.01 Hello.exe
+D:\Projects\C# 2\C# Programming Course - Part II\3.01 Hello\3.01 Hello\bin\Debug\3.01 Hello.pdb
+D:\Projects\C# 2\C# Programming Course - Part II\3.01 Hello\3.01 Hello\obj\Debug\3.01 Hello.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\C# Programming Course - Part II\3.01 Hello\3.01 Hello\obj\Debug\3.01 Hello.exe
+D:\Projects\C# 2\C# Programming Course - Part II\3.01 Hello\3.01 Hello\obj\Debug\3.01 Hello.pdb

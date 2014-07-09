@@ -1,0 +1,6 @@
+D:\Projects\C# 2\2.02 RectangularMatrix\2.02 RectangularMatrix\bin\Debug\2.02 RectangularMatrix.exe.config
+D:\Projects\C# 2\2.02 RectangularMatrix\2.02 RectangularMatrix\bin\Debug\2.02 RectangularMatrix.exe
+D:\Projects\C# 2\2.02 RectangularMatrix\2.02 RectangularMatrix\bin\Debug\2.02 RectangularMatrix.pdb
+D:\Projects\C# 2\2.02 RectangularMatrix\2.02 RectangularMatrix\obj\Debug\2.02 RectangularMatrix.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\2.02 RectangularMatrix\2.02 RectangularMatrix\obj\Debug\2.02 RectangularMatrix.exe
+D:\Projects\C# 2\2.02 RectangularMatrix\2.02 RectangularMatrix\obj\Debug\2.02 RectangularMatrix.pdb

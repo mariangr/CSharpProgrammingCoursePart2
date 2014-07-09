@@ -1,0 +1,5 @@
+D:\Projects\C# 2\C# Programming Course - Part II\3.02 GetMax\3.02 GetMax\bin\Debug\3.02 GetMax.exe.config
+D:\Projects\C# 2\C# Programming Course - Part II\3.02 GetMax\3.02 GetMax\bin\Debug\3.02 GetMax.exe
+D:\Projects\C# 2\C# Programming Course - Part II\3.02 GetMax\3.02 GetMax\bin\Debug\3.02 GetMax.pdb
+D:\Projects\C# 2\C# Programming Course - Part II\3.02 GetMax\3.02 GetMax\obj\Debug\3.02 GetMax.exe
+D:\Projects\C# 2\C# Programming Course - Part II\3.02 GetMax\3.02 GetMax\obj\Debug\3.02 GetMax.pdb

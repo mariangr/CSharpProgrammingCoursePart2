@@ -1,0 +1,6 @@
+D:\Projects\C# 2\2.03 SequenceInMatrix\2.03 SequenceInMatrix\bin\Debug\2.03 SequenceInMatrix.exe.config
+D:\Projects\C# 2\2.03 SequenceInMatrix\2.03 SequenceInMatrix\bin\Debug\2.03 SequenceInMatrix.exe
+D:\Projects\C# 2\2.03 SequenceInMatrix\2.03 SequenceInMatrix\bin\Debug\2.03 SequenceInMatrix.pdb
+D:\Projects\C# 2\2.03 SequenceInMatrix\2.03 SequenceInMatrix\obj\Debug\2.03 SequenceInMatrix.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\2.03 SequenceInMatrix\2.03 SequenceInMatrix\obj\Debug\2.03 SequenceInMatrix.exe
+D:\Projects\C# 2\2.03 SequenceInMatrix\2.03 SequenceInMatrix\obj\Debug\2.03 SequenceInMatrix.pdb

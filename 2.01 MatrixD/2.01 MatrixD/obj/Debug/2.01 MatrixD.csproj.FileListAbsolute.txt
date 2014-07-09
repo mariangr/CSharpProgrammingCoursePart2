@@ -1,0 +1,6 @@
+D:\Projects\C# 2\2.01 MatrixD\2.01 MatrixD\bin\Debug\2.01 MatrixD.exe.config
+D:\Projects\C# 2\2.01 MatrixD\2.01 MatrixD\bin\Debug\2.01 MatrixD.exe
+D:\Projects\C# 2\2.01 MatrixD\2.01 MatrixD\bin\Debug\2.01 MatrixD.pdb
+D:\Projects\C# 2\2.01 MatrixD\2.01 MatrixD\obj\Debug\2.01 MatrixD.exe
+D:\Projects\C# 2\2.01 MatrixD\2.01 MatrixD\obj\Debug\2.01 MatrixD.pdb
+D:\Projects\C# 2\2.01 MatrixD\2.01 MatrixD\obj\Debug\2.01 MatrixD.csprojResolveAssemblyReference.cache

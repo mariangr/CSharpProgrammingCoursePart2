@@ -1,0 +1,5 @@
+C:\Users\Hueco Mundo\Desktop\C# 2\C# Programming Course - Part II\1.02 ArraysInputAndCompare\ArraysInputAndCompare\bin\Debug\ArraysInputAndCompare.exe.config
+C:\Users\Hueco Mundo\Desktop\C# 2\C# Programming Course - Part II\1.02 ArraysInputAndCompare\ArraysInputAndCompare\bin\Debug\ArraysInputAndCompare.exe
+C:\Users\Hueco Mundo\Desktop\C# 2\C# Programming Course - Part II\1.02 ArraysInputAndCompare\ArraysInputAndCompare\bin\Debug\ArraysInputAndCompare.pdb
+C:\Users\Hueco Mundo\Desktop\C# 2\C# Programming Course - Part II\1.02 ArraysInputAndCompare\ArraysInputAndCompare\obj\Debug\ArraysInputAndCompare.exe
+C:\Users\Hueco Mundo\Desktop\C# 2\C# Programming Course - Part II\1.02 ArraysInputAndCompare\ArraysInputAndCompare\obj\Debug\ArraysInputAndCompare.pdb

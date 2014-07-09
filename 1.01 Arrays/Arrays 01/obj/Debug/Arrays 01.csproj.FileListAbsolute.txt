@@ -1,0 +1,5 @@
+C:\Users\Hueco Mundo\Desktop\C# 2\C# Programming Course - Part II\1.01 Arrays\Arrays 01\bin\Debug\Arrays 01.exe.config
+C:\Users\Hueco Mundo\Desktop\C# 2\C# Programming Course - Part II\1.01 Arrays\Arrays 01\bin\Debug\Arrays 01.exe
+C:\Users\Hueco Mundo\Desktop\C# 2\C# Programming Course - Part II\1.01 Arrays\Arrays 01\bin\Debug\Arrays 01.pdb
+C:\Users\Hueco Mundo\Desktop\C# 2\C# Programming Course - Part II\1.01 Arrays\Arrays 01\obj\Debug\Arrays 01.exe
+C:\Users\Hueco Mundo\Desktop\C# 2\C# Programming Course - Part II\1.01 Arrays\Arrays 01\obj\Debug\Arrays 01.pdb

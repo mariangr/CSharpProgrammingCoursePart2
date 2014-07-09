@@ -1,0 +1,6 @@
+D:\Projects\C# 2\C# Programming Course - Part II\2.07 MaxEqualArea\2.07 MaxEqualArea\bin\Debug\2.07 MaxEqualArea.exe.config
+D:\Projects\C# 2\C# Programming Course - Part II\2.07 MaxEqualArea\2.07 MaxEqualArea\bin\Debug\2.07 MaxEqualArea.exe
+D:\Projects\C# 2\C# Programming Course - Part II\2.07 MaxEqualArea\2.07 MaxEqualArea\bin\Debug\2.07 MaxEqualArea.pdb
+D:\Projects\C# 2\C# Programming Course - Part II\2.07 MaxEqualArea\2.07 MaxEqualArea\obj\Debug\2.07 MaxEqualArea.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\C# Programming Course - Part II\2.07 MaxEqualArea\2.07 MaxEqualArea\obj\Debug\2.07 MaxEqualArea.exe
+D:\Projects\C# 2\C# Programming Course - Part II\2.07 MaxEqualArea\2.07 MaxEqualArea\obj\Debug\2.07 MaxEqualArea.pdb

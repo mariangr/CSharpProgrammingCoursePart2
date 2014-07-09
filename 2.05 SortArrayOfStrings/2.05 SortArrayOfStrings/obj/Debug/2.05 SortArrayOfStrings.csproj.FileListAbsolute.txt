@@ -1,0 +1,5 @@
+D:\Projects\C# 2\2.05 SortArrayOfStrings\2.05 SortArrayOfStrings\bin\Debug\2.05 SortArrayOfStrings.exe.config
+D:\Projects\C# 2\2.05 SortArrayOfStrings\2.05 SortArrayOfStrings\bin\Debug\2.05 SortArrayOfStrings.exe
+D:\Projects\C# 2\2.05 SortArrayOfStrings\2.05 SortArrayOfStrings\bin\Debug\2.05 SortArrayOfStrings.pdb
+D:\Projects\C# 2\2.05 SortArrayOfStrings\2.05 SortArrayOfStrings\obj\Debug\2.05 SortArrayOfStrings.exe
+D:\Projects\C# 2\2.05 SortArrayOfStrings\2.05 SortArrayOfStrings\obj\Debug\2.05 SortArrayOfStrings.pdb

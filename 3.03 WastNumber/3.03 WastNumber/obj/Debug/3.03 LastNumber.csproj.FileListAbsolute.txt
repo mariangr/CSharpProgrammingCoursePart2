@@ -1,0 +1,5 @@
+D:\Projects\C# 2\C# Programming Course - Part II\3.03 WastNumber\3.03 WastNumber\bin\Debug\3.03 WastNumber.exe.config
+D:\Projects\C# 2\C# Programming Course - Part II\3.03 WastNumber\3.03 WastNumber\bin\Debug\3.03 WastNumber.exe
+D:\Projects\C# 2\C# Programming Course - Part II\3.03 WastNumber\3.03 WastNumber\bin\Debug\3.03 WastNumber.pdb
+D:\Projects\C# 2\C# Programming Course - Part II\3.03 WastNumber\3.03 WastNumber\obj\Debug\3.03 WastNumber.exe
+D:\Projects\C# 2\C# Programming Course - Part II\3.03 WastNumber\3.03 WastNumber\obj\Debug\3.03 WastNumber.pdb

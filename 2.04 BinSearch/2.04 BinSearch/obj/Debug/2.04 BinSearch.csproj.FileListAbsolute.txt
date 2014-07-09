@@ -1,0 +1,5 @@
+D:\Projects\C# 2\2.04 BinSearch\2.04 BinSearch\bin\Debug\2.04 BinSearch.exe.config
+D:\Projects\C# 2\2.04 BinSearch\2.04 BinSearch\bin\Debug\2.04 BinSearch.exe
+D:\Projects\C# 2\2.04 BinSearch\2.04 BinSearch\bin\Debug\2.04 BinSearch.pdb
+D:\Projects\C# 2\2.04 BinSearch\2.04 BinSearch\obj\Debug\2.04 BinSearch.exe
+D:\Projects\C# 2\2.04 BinSearch\2.04 BinSearch\obj\Debug\2.04 BinSearch.pdb
