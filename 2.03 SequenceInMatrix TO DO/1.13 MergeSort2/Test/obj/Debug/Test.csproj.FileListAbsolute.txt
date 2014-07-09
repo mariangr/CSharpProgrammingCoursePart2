@@ -1,5 +1,0 @@
-D:\Projects\C# 2\1.13 MergeSort2\Test\bin\Debug\Test.exe.config
-D:\Projects\C# 2\1.13 MergeSort2\Test\bin\Debug\Test.exe
-D:\Projects\C# 2\1.13 MergeSort2\Test\bin\Debug\Test.pdb
-D:\Projects\C# 2\1.13 MergeSort2\Test\obj\Debug\Test.exe
-D:\Projects\C# 2\1.13 MergeSort2\Test\obj\Debug\Test.pdb
