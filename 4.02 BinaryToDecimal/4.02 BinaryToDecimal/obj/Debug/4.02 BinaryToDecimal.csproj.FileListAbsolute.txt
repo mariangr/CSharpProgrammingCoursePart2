@@ -1,0 +1,5 @@
+D:\Projects\C# 2\4.02 BinaryToDecimal\4.02 BinaryToDecimal\bin\Debug\4.02 BinaryToDecimal.exe.config
+D:\Projects\C# 2\4.02 BinaryToDecimal\4.02 BinaryToDecimal\bin\Debug\4.02 BinaryToDecimal.exe
+D:\Projects\C# 2\4.02 BinaryToDecimal\4.02 BinaryToDecimal\bin\Debug\4.02 BinaryToDecimal.pdb
+D:\Projects\C# 2\4.02 BinaryToDecimal\4.02 BinaryToDecimal\obj\Debug\4.02 BinaryToDecimal.exe
+D:\Projects\C# 2\4.02 BinaryToDecimal\4.02 BinaryToDecimal\obj\Debug\4.02 BinaryToDecimal.pdb

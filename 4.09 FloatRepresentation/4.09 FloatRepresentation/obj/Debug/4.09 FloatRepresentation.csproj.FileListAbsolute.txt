@@ -1,0 +1,5 @@
+D:\Projects\C# 2\4.09 FloatRepresentation\4.09 FloatRepresentation\bin\Debug\4.09 FloatRepresentation.exe.config
+D:\Projects\C# 2\4.09 FloatRepresentation\4.09 FloatRepresentation\bin\Debug\4.09 FloatRepresentation.exe
+D:\Projects\C# 2\4.09 FloatRepresentation\4.09 FloatRepresentation\bin\Debug\4.09 FloatRepresentation.pdb
+D:\Projects\C# 2\4.09 FloatRepresentation\4.09 FloatRepresentation\obj\Debug\4.09 FloatRepresentation.exe
+D:\Projects\C# 2\4.09 FloatRepresentation\4.09 FloatRepresentation\obj\Debug\4.09 FloatRepresentation.pdb

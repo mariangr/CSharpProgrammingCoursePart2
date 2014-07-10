@@ -1,0 +1,5 @@
+D:\Projects\C# 2\4.03 DecimalToHexadecimal\4.03 DecimalToHexadecimal\bin\Debug\4.03 DecimalToHexadecimal.exe.config
+D:\Projects\C# 2\4.03 DecimalToHexadecimal\4.03 DecimalToHexadecimal\bin\Debug\4.03 DecimalToHexadecimal.exe
+D:\Projects\C# 2\4.03 DecimalToHexadecimal\4.03 DecimalToHexadecimal\bin\Debug\4.03 DecimalToHexadecimal.pdb
+D:\Projects\C# 2\4.03 DecimalToHexadecimal\4.03 DecimalToHexadecimal\obj\Debug\4.03 DecimalToHexadecimal.exe
+D:\Projects\C# 2\4.03 DecimalToHexadecimal\4.03 DecimalToHexadecimal\obj\Debug\4.03 DecimalToHexadecimal.pdb

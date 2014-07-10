@@ -1,0 +1,5 @@
+D:\Projects\C# 2\4.07 ConvertBetweenNumericalSystems\4.07 ConvertBetweenNumericalSystems\bin\Debug\4.07 ConvertBetweenNumericalSystems.exe.config
+D:\Projects\C# 2\4.07 ConvertBetweenNumericalSystems\4.07 ConvertBetweenNumericalSystems\bin\Debug\4.07 ConvertBetweenNumericalSystems.exe
+D:\Projects\C# 2\4.07 ConvertBetweenNumericalSystems\4.07 ConvertBetweenNumericalSystems\bin\Debug\4.07 ConvertBetweenNumericalSystems.pdb
+D:\Projects\C# 2\4.07 ConvertBetweenNumericalSystems\4.07 ConvertBetweenNumericalSystems\obj\Debug\4.07 ConvertBetweenNumericalSystems.exe
+D:\Projects\C# 2\4.07 ConvertBetweenNumericalSystems\4.07 ConvertBetweenNumericalSystems\obj\Debug\4.07 ConvertBetweenNumericalSystems.pdb

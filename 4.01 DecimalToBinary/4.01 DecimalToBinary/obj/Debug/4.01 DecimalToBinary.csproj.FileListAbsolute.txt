@@ -1,0 +1,6 @@
+D:\Projects\C# 2\4.01 DecimalToBinary\4.01 DecimalToBinary\bin\Debug\4.01 DecimalToBinary.exe.config
+D:\Projects\C# 2\4.01 DecimalToBinary\4.01 DecimalToBinary\bin\Debug\4.01 DecimalToBinary.exe
+D:\Projects\C# 2\4.01 DecimalToBinary\4.01 DecimalToBinary\bin\Debug\4.01 DecimalToBinary.pdb
+D:\Projects\C# 2\4.01 DecimalToBinary\4.01 DecimalToBinary\obj\Debug\4.01 DecimalToBinary.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\4.01 DecimalToBinary\4.01 DecimalToBinary\obj\Debug\4.01 DecimalToBinary.exe
+D:\Projects\C# 2\4.01 DecimalToBinary\4.01 DecimalToBinary\obj\Debug\4.01 DecimalToBinary.pdb

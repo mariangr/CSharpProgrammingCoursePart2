@@ -1,0 +1,5 @@
+D:\Projects\C# 2\4.05 HexadecimalToBinary v2\4.05 HexadecimalToBinary v2\bin\Debug\4.05 HexadecimalToBinary v2.exe.config
+D:\Projects\C# 2\4.05 HexadecimalToBinary v2\4.05 HexadecimalToBinary v2\bin\Debug\4.05 HexadecimalToBinary v2.exe
+D:\Projects\C# 2\4.05 HexadecimalToBinary v2\4.05 HexadecimalToBinary v2\bin\Debug\4.05 HexadecimalToBinary v2.pdb
+D:\Projects\C# 2\4.05 HexadecimalToBinary v2\4.05 HexadecimalToBinary v2\obj\Debug\4.05 HexadecimalToBinary v2.exe
+D:\Projects\C# 2\4.05 HexadecimalToBinary v2\4.05 HexadecimalToBinary v2\obj\Debug\4.05 HexadecimalToBinary v2.pdb

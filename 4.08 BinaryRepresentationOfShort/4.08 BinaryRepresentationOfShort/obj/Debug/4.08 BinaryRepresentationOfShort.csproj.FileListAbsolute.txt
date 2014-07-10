@@ -1,0 +1,5 @@
+D:\Projects\C# 2\4.08 BinaryRepresentationOfShort\4.08 BinaryRepresentationOfShort\bin\Debug\4.08 BinaryRepresentationOfShort.exe.config
+D:\Projects\C# 2\4.08 BinaryRepresentationOfShort\4.08 BinaryRepresentationOfShort\bin\Debug\4.08 BinaryRepresentationOfShort.exe
+D:\Projects\C# 2\4.08 BinaryRepresentationOfShort\4.08 BinaryRepresentationOfShort\bin\Debug\4.08 BinaryRepresentationOfShort.pdb
+D:\Projects\C# 2\4.08 BinaryRepresentationOfShort\4.08 BinaryRepresentationOfShort\obj\Debug\4.08 BinaryRepresentationOfShort.exe
+D:\Projects\C# 2\4.08 BinaryRepresentationOfShort\4.08 BinaryRepresentationOfShort\obj\Debug\4.08 BinaryRepresentationOfShort.pdb

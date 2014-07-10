@@ -1,0 +1,5 @@
+D:\Projects\C# 2\4.06 BinaryToHexadecimal\4.06 BinaryToHexadecimal\bin\Debug\4.06 BinaryToHexadecimal.exe.config
+D:\Projects\C# 2\4.06 BinaryToHexadecimal\4.06 BinaryToHexadecimal\bin\Debug\4.06 BinaryToHexadecimal.exe
+D:\Projects\C# 2\4.06 BinaryToHexadecimal\4.06 BinaryToHexadecimal\bin\Debug\4.06 BinaryToHexadecimal.pdb
+D:\Projects\C# 2\4.06 BinaryToHexadecimal\4.06 BinaryToHexadecimal\obj\Debug\4.06 BinaryToHexadecimal.exe
+D:\Projects\C# 2\4.06 BinaryToHexadecimal\4.06 BinaryToHexadecimal\obj\Debug\4.06 BinaryToHexadecimal.pdb
