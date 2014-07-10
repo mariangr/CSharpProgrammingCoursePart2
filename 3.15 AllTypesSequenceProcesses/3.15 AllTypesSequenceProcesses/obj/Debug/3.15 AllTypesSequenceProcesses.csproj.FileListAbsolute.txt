@@ -1,0 +1,5 @@
+D:\Projects\C# 2\3.15 AllTypesSequenceProcesses\3.15 AllTypesSequenceProcesses\bin\Debug\3.15 AllTypesSequenceProcesses.exe.config
+D:\Projects\C# 2\3.15 AllTypesSequenceProcesses\3.15 AllTypesSequenceProcesses\bin\Debug\3.15 AllTypesSequenceProcesses.exe
+D:\Projects\C# 2\3.15 AllTypesSequenceProcesses\3.15 AllTypesSequenceProcesses\bin\Debug\3.15 AllTypesSequenceProcesses.pdb
+D:\Projects\C# 2\3.15 AllTypesSequenceProcesses\3.15 AllTypesSequenceProcesses\obj\Debug\3.15 AllTypesSequenceProcesses.exe
+D:\Projects\C# 2\3.15 AllTypesSequenceProcesses\3.15 AllTypesSequenceProcesses\obj\Debug\3.15 AllTypesSequenceProcesses.pdb

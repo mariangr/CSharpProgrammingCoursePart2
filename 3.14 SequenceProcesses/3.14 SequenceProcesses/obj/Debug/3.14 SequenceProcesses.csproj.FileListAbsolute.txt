@@ -1,0 +1,6 @@
+D:\Projects\C# 2\3.14 SequenceProcesses\3.14 SequenceProcesses\bin\Debug\3.14 SequenceProcesses.exe.config
+D:\Projects\C# 2\3.14 SequenceProcesses\3.14 SequenceProcesses\bin\Debug\3.14 SequenceProcesses.exe
+D:\Projects\C# 2\3.14 SequenceProcesses\3.14 SequenceProcesses\bin\Debug\3.14 SequenceProcesses.pdb
+D:\Projects\C# 2\3.14 SequenceProcesses\3.14 SequenceProcesses\obj\Debug\3.14 SequenceProcesses.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\3.14 SequenceProcesses\3.14 SequenceProcesses\obj\Debug\3.14 SequenceProcesses.exe
+D:\Projects\C# 2\3.14 SequenceProcesses\3.14 SequenceProcesses\obj\Debug\3.14 SequenceProcesses.pdb

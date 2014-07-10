@@ -1,0 +1,5 @@
+D:\Projects\C# 2\3.11 AddPolinomials\3.11 AddPolinomials\bin\Debug\3.11 AddPolinomials.exe.config
+D:\Projects\C# 2\3.11 AddPolinomials\3.11 AddPolinomials\bin\Debug\3.11 AddPolinomials.exe
+D:\Projects\C# 2\3.11 AddPolinomials\3.11 AddPolinomials\bin\Debug\3.11 AddPolinomials.pdb
+D:\Projects\C# 2\3.11 AddPolinomials\3.11 AddPolinomials\obj\Debug\3.11 AddPolinomials.exe
+D:\Projects\C# 2\3.11 AddPolinomials\3.11 AddPolinomials\obj\Debug\3.11 AddPolinomials.pdb

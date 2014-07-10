@@ -1,0 +1,6 @@
+D:\Projects\C# 2\3.13 ReverseCalculateSolve\3.13 ReverseCalculateSolve\bin\Debug\3.13 ReverseCalculateSolve.exe.config
+D:\Projects\C# 2\3.13 ReverseCalculateSolve\3.13 ReverseCalculateSolve\bin\Debug\3.13 ReverseCalculateSolve.exe
+D:\Projects\C# 2\3.13 ReverseCalculateSolve\3.13 ReverseCalculateSolve\bin\Debug\3.13 ReverseCalculateSolve.pdb
+D:\Projects\C# 2\3.13 ReverseCalculateSolve\3.13 ReverseCalculateSolve\obj\Debug\3.13 ReverseCalculateSolve.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\3.13 ReverseCalculateSolve\3.13 ReverseCalculateSolve\obj\Debug\3.13 ReverseCalculateSolve.exe
+D:\Projects\C# 2\3.13 ReverseCalculateSolve\3.13 ReverseCalculateSolve\obj\Debug\3.13 ReverseCalculateSolve.pdb

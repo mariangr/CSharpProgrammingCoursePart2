@@ -1,0 +1,6 @@
+D:\Projects\C# 2\3.09 MaxElementInArrayAndSort\3.09 MaxElementInArrayAndSort\bin\Debug\3.09 MaxElementInArrayAndSort.exe.config
+D:\Projects\C# 2\3.09 MaxElementInArrayAndSort\3.09 MaxElementInArrayAndSort\bin\Debug\3.09 MaxElementInArrayAndSort.exe
+D:\Projects\C# 2\3.09 MaxElementInArrayAndSort\3.09 MaxElementInArrayAndSort\bin\Debug\3.09 MaxElementInArrayAndSort.pdb
+D:\Projects\C# 2\3.09 MaxElementInArrayAndSort\3.09 MaxElementInArrayAndSort\obj\Debug\3.09 MaxElementInArrayAndSort.exe
+D:\Projects\C# 2\3.09 MaxElementInArrayAndSort\3.09 MaxElementInArrayAndSort\obj\Debug\3.09 MaxElementInArrayAndSort.pdb
+D:\Projects\C# 2\3.09 MaxElementInArrayAndSort\3.09 MaxElementInArrayAndSort\obj\Debug\3.09 MaxElementInArrayAndSort.csprojResolveAssemblyReference.cache

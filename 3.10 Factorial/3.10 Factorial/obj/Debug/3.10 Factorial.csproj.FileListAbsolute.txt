@@ -1,0 +1,5 @@
+D:\Projects\C# 2\3.10 Factorial\3.10 Factorial\bin\Debug\3.10 Factorial.exe.config
+D:\Projects\C# 2\3.10 Factorial\3.10 Factorial\bin\Debug\3.10 Factorial.exe
+D:\Projects\C# 2\3.10 Factorial\3.10 Factorial\bin\Debug\3.10 Factorial.pdb
+D:\Projects\C# 2\3.10 Factorial\3.10 Factorial\obj\Debug\3.10 Factorial.exe
+D:\Projects\C# 2\3.10 Factorial\3.10 Factorial\obj\Debug\3.10 Factorial.pdb
