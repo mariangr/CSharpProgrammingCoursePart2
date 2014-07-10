@@ -1,0 +1,6 @@
+D:\Projects\C# 2\3.07 ReverseDigitsDecimal\3.07 ReverseDigitsDecimal\bin\Debug\3.07 ReverseDigitsDecimal.exe.config
+D:\Projects\C# 2\3.07 ReverseDigitsDecimal\3.07 ReverseDigitsDecimal\bin\Debug\3.07 ReverseDigitsDecimal.exe
+D:\Projects\C# 2\3.07 ReverseDigitsDecimal\3.07 ReverseDigitsDecimal\bin\Debug\3.07 ReverseDigitsDecimal.pdb
+D:\Projects\C# 2\3.07 ReverseDigitsDecimal\3.07 ReverseDigitsDecimal\obj\Debug\3.07 ReverseDigitsDecimal.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\3.07 ReverseDigitsDecimal\3.07 ReverseDigitsDecimal\obj\Debug\3.07 ReverseDigitsDecimal.exe
+D:\Projects\C# 2\3.07 ReverseDigitsDecimal\3.07 ReverseDigitsDecimal\obj\Debug\3.07 ReverseDigitsDecimal.pdb

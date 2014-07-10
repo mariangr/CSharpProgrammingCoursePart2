@@ -1,0 +1,5 @@
+D:\Projects\C# 2\3.06 ReturnIndexOfTheFirstBigger\3.06 ReturnIndexOfTheFirstBigger\bin\Debug\3.06 ReturnIndexOfTheFirstBigger.exe.config
+D:\Projects\C# 2\3.06 ReturnIndexOfTheFirstBigger\3.06 ReturnIndexOfTheFirstBigger\bin\Debug\3.06 ReturnIndexOfTheFirstBigger.exe
+D:\Projects\C# 2\3.06 ReturnIndexOfTheFirstBigger\3.06 ReturnIndexOfTheFirstBigger\bin\Debug\3.06 ReturnIndexOfTheFirstBigger.pdb
+D:\Projects\C# 2\3.06 ReturnIndexOfTheFirstBigger\3.06 ReturnIndexOfTheFirstBigger\obj\Debug\3.06 ReturnIndexOfTheFirstBigger.exe
+D:\Projects\C# 2\3.06 ReturnIndexOfTheFirstBigger\3.06 ReturnIndexOfTheFirstBigger\obj\Debug\3.06 ReturnIndexOfTheFirstBigger.pdb

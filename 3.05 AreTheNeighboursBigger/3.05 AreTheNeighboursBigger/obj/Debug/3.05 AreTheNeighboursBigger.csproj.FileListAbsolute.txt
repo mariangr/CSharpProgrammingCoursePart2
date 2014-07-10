@@ -1,0 +1,5 @@
+D:\Projects\C# 2\3.05 AreTheNeighboursBigger\3.05 AreTheNeighboursBigger\bin\Debug\3.05 AreTheNeighboursBigger.exe.config
+D:\Projects\C# 2\3.05 AreTheNeighboursBigger\3.05 AreTheNeighboursBigger\bin\Debug\3.05 AreTheNeighboursBigger.exe
+D:\Projects\C# 2\3.05 AreTheNeighboursBigger\3.05 AreTheNeighboursBigger\bin\Debug\3.05 AreTheNeighboursBigger.pdb
+D:\Projects\C# 2\3.05 AreTheNeighboursBigger\3.05 AreTheNeighboursBigger\obj\Debug\3.05 AreTheNeighboursBigger.exe
+D:\Projects\C# 2\3.05 AreTheNeighboursBigger\3.05 AreTheNeighboursBigger\obj\Debug\3.05 AreTheNeighboursBigger.pdb

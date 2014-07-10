@@ -1,0 +1,5 @@
+D:\Projects\C# 2\3.04 NumberInArray\3.04 NumberInArray\bin\Debug\3.04 NumberInArray.exe.config
+D:\Projects\C# 2\3.04 NumberInArray\3.04 NumberInArray\bin\Debug\3.04 NumberInArray.exe
+D:\Projects\C# 2\3.04 NumberInArray\3.04 NumberInArray\bin\Debug\3.04 NumberInArray.pdb
+D:\Projects\C# 2\3.04 NumberInArray\3.04 NumberInArray\obj\Debug\3.04 NumberInArray.exe
+D:\Projects\C# 2\3.04 NumberInArray\3.04 NumberInArray\obj\Debug\3.04 NumberInArray.pdb

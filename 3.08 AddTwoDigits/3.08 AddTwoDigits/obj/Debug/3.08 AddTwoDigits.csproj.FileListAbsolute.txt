@@ -1,0 +1,6 @@
+D:\Projects\C# 2\3.08 AddTwoDigits\3.08 AddTwoDigits\bin\Debug\3.08 AddTwoDigits.exe.config
+D:\Projects\C# 2\3.08 AddTwoDigits\3.08 AddTwoDigits\bin\Debug\3.08 AddTwoDigits.exe
+D:\Projects\C# 2\3.08 AddTwoDigits\3.08 AddTwoDigits\bin\Debug\3.08 AddTwoDigits.pdb
+D:\Projects\C# 2\3.08 AddTwoDigits\3.08 AddTwoDigits\obj\Debug\3.08 AddTwoDigits.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\3.08 AddTwoDigits\3.08 AddTwoDigits\obj\Debug\3.08 AddTwoDigits.exe
+D:\Projects\C# 2\3.08 AddTwoDigits\3.08 AddTwoDigits\obj\Debug\3.08 AddTwoDigits.pdb
