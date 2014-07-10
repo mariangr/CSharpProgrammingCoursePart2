@@ -1,0 +1,5 @@
+D:\Projects\C# 2\5.03 DayOfTheWeek\5.03 DayOfTheWeek\bin\Debug\5.03 DayOfTheWeek.exe.config
+D:\Projects\C# 2\5.03 DayOfTheWeek\5.03 DayOfTheWeek\bin\Debug\5.03 DayOfTheWeek.exe
+D:\Projects\C# 2\5.03 DayOfTheWeek\5.03 DayOfTheWeek\bin\Debug\5.03 DayOfTheWeek.pdb
+D:\Projects\C# 2\5.03 DayOfTheWeek\5.03 DayOfTheWeek\obj\Debug\5.03 DayOfTheWeek.exe
+D:\Projects\C# 2\5.03 DayOfTheWeek\5.03 DayOfTheWeek\obj\Debug\5.03 DayOfTheWeek.pdb

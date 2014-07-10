@@ -1,0 +1,5 @@
+D:\Projects\C# 2\5.06 ReadAndSumNumbers\5.06 ReadAndSumNumbers\bin\Debug\5.06 ReadAndSumNumbers.exe.config
+D:\Projects\C# 2\5.06 ReadAndSumNumbers\5.06 ReadAndSumNumbers\bin\Debug\5.06 ReadAndSumNumbers.exe
+D:\Projects\C# 2\5.06 ReadAndSumNumbers\5.06 ReadAndSumNumbers\bin\Debug\5.06 ReadAndSumNumbers.pdb
+D:\Projects\C# 2\5.06 ReadAndSumNumbers\5.06 ReadAndSumNumbers\obj\Debug\5.06 ReadAndSumNumbers.exe
+D:\Projects\C# 2\5.06 ReadAndSumNumbers\5.06 ReadAndSumNumbers\obj\Debug\5.06 ReadAndSumNumbers.pdb

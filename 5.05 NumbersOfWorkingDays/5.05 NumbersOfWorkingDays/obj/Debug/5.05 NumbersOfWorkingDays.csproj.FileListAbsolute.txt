@@ -1,0 +1,5 @@
+D:\Projects\C# 2\5.05 NumbersOfWorkingDays\5.05 NumbersOfWorkingDays\bin\Debug\5.05 NumbersOfWorkingDays.exe.config
+D:\Projects\C# 2\5.05 NumbersOfWorkingDays\5.05 NumbersOfWorkingDays\bin\Debug\5.05 NumbersOfWorkingDays.exe
+D:\Projects\C# 2\5.05 NumbersOfWorkingDays\5.05 NumbersOfWorkingDays\bin\Debug\5.05 NumbersOfWorkingDays.pdb
+D:\Projects\C# 2\5.05 NumbersOfWorkingDays\5.05 NumbersOfWorkingDays\obj\Debug\5.05 NumbersOfWorkingDays.exe
+D:\Projects\C# 2\5.05 NumbersOfWorkingDays\5.05 NumbersOfWorkingDays\obj\Debug\5.05 NumbersOfWorkingDays.pdb

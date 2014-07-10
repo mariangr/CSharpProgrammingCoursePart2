@@ -1,0 +1,5 @@
+D:\Projects\C# 2\5.02 TenRandomNumbers\5.02 TenRandomNumbers\bin\Debug\5.02 TenRandomNumbers.exe.config
+D:\Projects\C# 2\5.02 TenRandomNumbers\5.02 TenRandomNumbers\bin\Debug\5.02 TenRandomNumbers.exe
+D:\Projects\C# 2\5.02 TenRandomNumbers\5.02 TenRandomNumbers\bin\Debug\5.02 TenRandomNumbers.pdb
+D:\Projects\C# 2\5.02 TenRandomNumbers\5.02 TenRandomNumbers\obj\Debug\5.02 TenRandomNumbers.exe
+D:\Projects\C# 2\5.02 TenRandomNumbers\5.02 TenRandomNumbers\obj\Debug\5.02 TenRandomNumbers.pdb
