@@ -1,0 +1,5 @@
+D:\Projects\C# 2\6.03 InsertNumberOfLines\6.03 InsertNumberOfLines\bin\Debug\6.03 InsertNumberOfLines.exe.config
+D:\Projects\C# 2\6.03 InsertNumberOfLines\6.03 InsertNumberOfLines\bin\Debug\6.03 InsertNumberOfLines.exe
+D:\Projects\C# 2\6.03 InsertNumberOfLines\6.03 InsertNumberOfLines\bin\Debug\6.03 InsertNumberOfLines.pdb
+D:\Projects\C# 2\6.03 InsertNumberOfLines\6.03 InsertNumberOfLines\obj\Debug\6.03 InsertNumberOfLines.exe
+D:\Projects\C# 2\6.03 InsertNumberOfLines\6.03 InsertNumberOfLines\obj\Debug\6.03 InsertNumberOfLines.pdb

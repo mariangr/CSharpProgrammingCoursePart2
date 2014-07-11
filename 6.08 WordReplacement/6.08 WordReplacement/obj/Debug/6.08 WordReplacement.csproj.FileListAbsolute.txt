@@ -1,0 +1,6 @@
+D:\Projects\C# 2\6.08 WordReplacement\6.08 WordReplacement\bin\Debug\6.08 WordReplacement.exe.config
+D:\Projects\C# 2\6.08 WordReplacement\6.08 WordReplacement\bin\Debug\6.08 WordReplacement.exe
+D:\Projects\C# 2\6.08 WordReplacement\6.08 WordReplacement\bin\Debug\6.08 WordReplacement.pdb
+D:\Projects\C# 2\6.08 WordReplacement\6.08 WordReplacement\obj\Debug\6.08 WordReplacement.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\6.08 WordReplacement\6.08 WordReplacement\obj\Debug\6.08 WordReplacement.exe
+D:\Projects\C# 2\6.08 WordReplacement\6.08 WordReplacement\obj\Debug\6.08 WordReplacement.pdb

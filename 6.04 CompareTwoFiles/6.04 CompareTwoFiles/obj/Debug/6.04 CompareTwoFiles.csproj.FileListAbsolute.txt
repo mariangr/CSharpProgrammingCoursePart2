@@ -1,0 +1,5 @@
+D:\Projects\C# 2\6.04 CompareTwoFiles\6.04 CompareTwoFiles\bin\Debug\6.04 CompareTwoFiles.exe.config
+D:\Projects\C# 2\6.04 CompareTwoFiles\6.04 CompareTwoFiles\bin\Debug\6.04 CompareTwoFiles.exe
+D:\Projects\C# 2\6.04 CompareTwoFiles\6.04 CompareTwoFiles\bin\Debug\6.04 CompareTwoFiles.pdb
+D:\Projects\C# 2\6.04 CompareTwoFiles\6.04 CompareTwoFiles\obj\Debug\6.04 CompareTwoFiles.exe
+D:\Projects\C# 2\6.04 CompareTwoFiles\6.04 CompareTwoFiles\obj\Debug\6.04 CompareTwoFiles.pdb

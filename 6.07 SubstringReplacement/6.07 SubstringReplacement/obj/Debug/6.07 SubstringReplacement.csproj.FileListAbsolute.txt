@@ -1,0 +1,5 @@
+D:\Projects\C# 2\6.07 SubstringReplacement\6.07 SubstringReplacement\bin\Debug\6.07 SubstringReplacement.exe.config
+D:\Projects\C# 2\6.07 SubstringReplacement\6.07 SubstringReplacement\bin\Debug\6.07 SubstringReplacement.exe
+D:\Projects\C# 2\6.07 SubstringReplacement\6.07 SubstringReplacement\bin\Debug\6.07 SubstringReplacement.pdb
+D:\Projects\C# 2\6.07 SubstringReplacement\6.07 SubstringReplacement\obj\Debug\6.07 SubstringReplacement.exe
+D:\Projects\C# 2\6.07 SubstringReplacement\6.07 SubstringReplacement\obj\Debug\6.07 SubstringReplacement.pdb

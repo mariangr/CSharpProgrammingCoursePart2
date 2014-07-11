@@ -1,0 +1,6 @@
+D:\Projects\C# 2\6.02 ConcatenateTwoFiles\6.02 ConcatenateTwoFiles\bin\Debug\6.02 ConcatenateTwoFiles.exe.config
+D:\Projects\C# 2\6.02 ConcatenateTwoFiles\6.02 ConcatenateTwoFiles\bin\Debug\6.02 ConcatenateTwoFiles.exe
+D:\Projects\C# 2\6.02 ConcatenateTwoFiles\6.02 ConcatenateTwoFiles\bin\Debug\6.02 ConcatenateTwoFiles.pdb
+D:\Projects\C# 2\6.02 ConcatenateTwoFiles\6.02 ConcatenateTwoFiles\obj\Debug\6.02 ConcatenateTwoFiles.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\6.02 ConcatenateTwoFiles\6.02 ConcatenateTwoFiles\obj\Debug\6.02 ConcatenateTwoFiles.exe
+D:\Projects\C# 2\6.02 ConcatenateTwoFiles\6.02 ConcatenateTwoFiles\obj\Debug\6.02 ConcatenateTwoFiles.pdb

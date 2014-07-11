@@ -1,0 +1,5 @@
+D:\Projects\C# 2\6.06 ReadAndSortFile\6.06 ReadAndSortFile\bin\Debug\6.06 ReadAndSortFile.exe.config
+D:\Projects\C# 2\6.06 ReadAndSortFile\6.06 ReadAndSortFile\bin\Debug\6.06 ReadAndSortFile.exe
+D:\Projects\C# 2\6.06 ReadAndSortFile\6.06 ReadAndSortFile\bin\Debug\6.06 ReadAndSortFile.pdb
+D:\Projects\C# 2\6.06 ReadAndSortFile\6.06 ReadAndSortFile\obj\Debug\6.06 ReadAndSortFile.exe
+D:\Projects\C# 2\6.06 ReadAndSortFile\6.06 ReadAndSortFile\obj\Debug\6.06 ReadAndSortFile.pdb

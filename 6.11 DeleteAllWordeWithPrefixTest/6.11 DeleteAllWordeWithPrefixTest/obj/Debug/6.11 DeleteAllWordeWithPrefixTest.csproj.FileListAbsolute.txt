@@ -1,0 +1,5 @@
+D:\Projects\C# 2\6.11 DeleteAllWordeWithPrefixTest\6.11 DeleteAllWordeWithPrefixTest\bin\Debug\6.11 DeleteAllWordeWithPrefixTest.exe.config
+D:\Projects\C# 2\6.11 DeleteAllWordeWithPrefixTest\6.11 DeleteAllWordeWithPrefixTest\bin\Debug\6.11 DeleteAllWordeWithPrefixTest.exe
+D:\Projects\C# 2\6.11 DeleteAllWordeWithPrefixTest\6.11 DeleteAllWordeWithPrefixTest\bin\Debug\6.11 DeleteAllWordeWithPrefixTest.pdb
+D:\Projects\C# 2\6.11 DeleteAllWordeWithPrefixTest\6.11 DeleteAllWordeWithPrefixTest\obj\Debug\6.11 DeleteAllWordeWithPrefixTest.exe
+D:\Projects\C# 2\6.11 DeleteAllWordeWithPrefixTest\6.11 DeleteAllWordeWithPrefixTest\obj\Debug\6.11 DeleteAllWordeWithPrefixTest.pdb

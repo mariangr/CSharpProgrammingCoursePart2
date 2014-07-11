@@ -1,0 +1,6 @@
+D:\Projects\C# 2\7.02 ReadNumber\7.02 ReadNumber\bin\Debug\7.02 ReadNumber.exe.config
+D:\Projects\C# 2\7.02 ReadNumber\7.02 ReadNumber\bin\Debug\7.02 ReadNumber.exe
+D:\Projects\C# 2\7.02 ReadNumber\7.02 ReadNumber\bin\Debug\7.02 ReadNumber.pdb
+D:\Projects\C# 2\7.02 ReadNumber\7.02 ReadNumber\obj\Debug\7.02 ReadNumber.csprojResolveAssemblyReference.cache
+D:\Projects\C# 2\7.02 ReadNumber\7.02 ReadNumber\obj\Debug\7.02 ReadNumber.exe
+D:\Projects\C# 2\7.02 ReadNumber\7.02 ReadNumber\obj\Debug\7.02 ReadNumber.pdb

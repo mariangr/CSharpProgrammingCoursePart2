@@ -1,0 +1,5 @@
+D:\Projects\C# 2\6.10 ExtractFromXMLFile\6.10 ExtractFromXMLFile\bin\Debug\6.10 ExtractFromXMLFile.exe.config
+D:\Projects\C# 2\6.10 ExtractFromXMLFile\6.10 ExtractFromXMLFile\bin\Debug\6.10 ExtractFromXMLFile.exe
+D:\Projects\C# 2\6.10 ExtractFromXMLFile\6.10 ExtractFromXMLFile\bin\Debug\6.10 ExtractFromXMLFile.pdb
+D:\Projects\C# 2\6.10 ExtractFromXMLFile\6.10 ExtractFromXMLFile\obj\Debug\6.10 ExtractFromXMLFile.exe
+D:\Projects\C# 2\6.10 ExtractFromXMLFile\6.10 ExtractFromXMLFile\obj\Debug\6.10 ExtractFromXMLFile.pdb

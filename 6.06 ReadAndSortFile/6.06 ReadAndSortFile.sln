@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.06 ReadAndSortFile", "6.06 ReadAndSortFile\6.06 ReadAndSortFile.csproj", "{EE449E3D-B78D-49FF-82B8-CC9A1EEB20A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE449E3D-B78D-49FF-82B8-CC9A1EEB20A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE449E3D-B78D-49FF-82B8-CC9A1EEB20A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE449E3D-B78D-49FF-82B8-CC9A1EEB20A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE449E3D-B78D-49FF-82B8-CC9A1EEB20A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

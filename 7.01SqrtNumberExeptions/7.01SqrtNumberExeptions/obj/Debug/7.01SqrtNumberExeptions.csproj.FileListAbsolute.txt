@@ -1,0 +1,5 @@
+D:\Projects\C# 2\7.01SqrtNumberExeptions\7.01SqrtNumberExeptions\bin\Debug\7.01SqrtNumberExeptions.exe.config
+D:\Projects\C# 2\7.01SqrtNumberExeptions\7.01SqrtNumberExeptions\bin\Debug\7.01SqrtNumberExeptions.exe
+D:\Projects\C# 2\7.01SqrtNumberExeptions\7.01SqrtNumberExeptions\bin\Debug\7.01SqrtNumberExeptions.pdb
+D:\Projects\C# 2\7.01SqrtNumberExeptions\7.01SqrtNumberExeptions\obj\Debug\7.01SqrtNumberExeptions.exe
+D:\Projects\C# 2\7.01SqrtNumberExeptions\7.01SqrtNumberExeptions\obj\Debug\7.01SqrtNumberExeptions.pdb

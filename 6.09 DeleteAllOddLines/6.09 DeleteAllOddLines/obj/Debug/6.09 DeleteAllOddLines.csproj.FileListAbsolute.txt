@@ -1,0 +1,5 @@
+D:\Projects\C# 2\6.09 DeleteAllOddLines\6.09 DeleteAllOddLines\bin\Debug\6.09 DeleteAllOddLines.exe.config
+D:\Projects\C# 2\6.09 DeleteAllOddLines\6.09 DeleteAllOddLines\bin\Debug\6.09 DeleteAllOddLines.exe
+D:\Projects\C# 2\6.09 DeleteAllOddLines\6.09 DeleteAllOddLines\bin\Debug\6.09 DeleteAllOddLines.pdb
+D:\Projects\C# 2\6.09 DeleteAllOddLines\6.09 DeleteAllOddLines\obj\Debug\6.09 DeleteAllOddLines.exe
+D:\Projects\C# 2\6.09 DeleteAllOddLines\6.09 DeleteAllOddLines\obj\Debug\6.09 DeleteAllOddLines.pdb
