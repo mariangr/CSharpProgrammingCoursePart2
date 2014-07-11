@@ -19,39 +19,39 @@ namespace _4._07_ConvertBetweenNumericalSystems
             Console.WriteLine("Enter numeral system base d<=16 to convert to:");
             int d = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(ConvertCurrentToDecimal(s, d, number));
+            ConvertDecimalToWanted(s, d, number);
         }
-        //convert to decimal first for ease of the convertion
-        static string ConvertCurrentToDecimal(int currentBase, int wantedBase, string number)
+        //then convert to wanted base
+        static void ConvertDecimalToWanted(int currentBase, int wantedBase, string number)
         {
-            int result = 0;
+            int decimalNumber = 0;
 
             for (int i = 0; i < number.Length; i++)
             {
-                result += (number[i] - '0') * (int)Math.Pow(currentBase, number.Length - 1 - i);
+                decimalNumber += (number[i] - '0') * (int)Math.Pow(currentBase, number.Length - 1 - i);
             }
 
-            return ConvertDecimalToWanted(wantedBase, result);
-        }
-        //then convert to wanted base
-        static string ConvertDecimalToWanted(int wantedBase, int number)
-        {
-            StringBuilder result = new StringBuilder();
-
-            if (wantedBase == 16)
+            List<string> result = new List<string>();
+            string element;
+            while (decimalNumber != 0)
             {
-                return Convert.ToString(number, 16).ToUpper();
-            }
-            else
-            {
-                while (number > 0)
+                if (decimalNumber % wantedBase > 9)
                 {
-                    result.Insert(0, number % 16);
-                    number /= 16;
+                    element = ((char)(decimalNumber % wantedBase + 55)).ToString();
                 }
+                else
+                {
+                    element = (decimalNumber % wantedBase).ToString();
+                }
+                result.Add( element );
+                decimalNumber /= wantedBase;
             }
 
-            return result.ToString();
+            for (int i = result.Count - 1; i >= 0; i--)
+            {
+                Console.Write(result[i]);
+            }
+            Console.WriteLine();
         }
     }
 }
