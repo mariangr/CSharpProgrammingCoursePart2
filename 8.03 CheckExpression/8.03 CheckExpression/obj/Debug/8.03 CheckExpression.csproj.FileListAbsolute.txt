@@ -1,0 +1,5 @@
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.03 CheckExpression\8.03 CheckExpression\bin\Debug\8.03 CheckExpression.exe.config
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.03 CheckExpression\8.03 CheckExpression\bin\Debug\8.03 CheckExpression.exe
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.03 CheckExpression\8.03 CheckExpression\bin\Debug\8.03 CheckExpression.pdb
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.03 CheckExpression\8.03 CheckExpression\obj\Debug\8.03 CheckExpression.exe
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.03 CheckExpression\8.03 CheckExpression\obj\Debug\8.03 CheckExpression.pdb

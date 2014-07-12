@@ -1,0 +1,5 @@
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.04 NumberOfRepeatitionSubstring\8.04 NumberOfRepeatitionSubstring\bin\Debug\8.04 NumberOfRepeatitionSubstring.exe.config
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.04 NumberOfRepeatitionSubstring\8.04 NumberOfRepeatitionSubstring\bin\Debug\8.04 NumberOfRepeatitionSubstring.exe
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.04 NumberOfRepeatitionSubstring\8.04 NumberOfRepeatitionSubstring\bin\Debug\8.04 NumberOfRepeatitionSubstring.pdb
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.04 NumberOfRepeatitionSubstring\8.04 NumberOfRepeatitionSubstring\obj\Debug\8.04 NumberOfRepeatitionSubstring.exe
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.04 NumberOfRepeatitionSubstring\8.04 NumberOfRepeatitionSubstring\obj\Debug\8.04 NumberOfRepeatitionSubstring.pdb

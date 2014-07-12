@@ -1,0 +1,6 @@
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.02 ReverseString\8.02 ReverseString\bin\Debug\8.02 ReverseString.exe.config
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.02 ReverseString\8.02 ReverseString\bin\Debug\8.02 ReverseString.exe
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.02 ReverseString\8.02 ReverseString\bin\Debug\8.02 ReverseString.pdb
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.02 ReverseString\8.02 ReverseString\obj\Debug\8.02 ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.02 ReverseString\8.02 ReverseString\obj\Debug\8.02 ReverseString.exe
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.02 ReverseString\8.02 ReverseString\obj\Debug\8.02 ReverseString.pdb
