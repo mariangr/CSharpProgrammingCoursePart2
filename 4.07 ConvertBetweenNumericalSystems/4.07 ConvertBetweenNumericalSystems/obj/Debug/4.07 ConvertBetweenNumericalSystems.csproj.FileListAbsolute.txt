@@ -9,3 +9,9 @@ D:\Projects\C# 2\C# Programming Course - Part II\4.07 ConvertBetweenNumericalSys
 D:\Projects\C# 2\C# Programming Course - Part II\4.07 ConvertBetweenNumericalSystems\4.07 ConvertBetweenNumericalSystems\bin\Debug\4.07 ConvertBetweenNumericalSystems.exe
 D:\Projects\C# 2\C# Programming Course - Part II\4.07 ConvertBetweenNumericalSystems\4.07 ConvertBetweenNumericalSystems\bin\Debug\4.07 ConvertBetweenNumericalSystems.pdb
 D:\Projects\C# 2\4.07 ConvertBetweenNumericalSystems\4.07 ConvertBetweenNumericalSystems\obj\Debug\4.07 ConvertBetweenNumericalSystems.csprojResolveAssemblyReference.cache
+C:\Users\marian.graurov\Documents\GitHub\CSharpProgrammingCoursePart2\4.07 ConvertBetweenNumericalSystems\4.07 ConvertBetweenNumericalSystems\bin\Debug\4.07 ConvertBetweenNumericalSystems.exe.config
+C:\Users\marian.graurov\Documents\GitHub\CSharpProgrammingCoursePart2\4.07 ConvertBetweenNumericalSystems\4.07 ConvertBetweenNumericalSystems\obj\Debug\4.07 ConvertBetweenNumericalSystems.exe
+C:\Users\marian.graurov\Documents\GitHub\CSharpProgrammingCoursePart2\4.07 ConvertBetweenNumericalSystems\4.07 ConvertBetweenNumericalSystems\obj\Debug\4.07 ConvertBetweenNumericalSystems.pdb
+C:\Users\marian.graurov\Documents\GitHub\CSharpProgrammingCoursePart2\4.07 ConvertBetweenNumericalSystems\4.07 ConvertBetweenNumericalSystems\bin\Debug\4.07 ConvertBetweenNumericalSystems.exe
+C:\Users\marian.graurov\Documents\GitHub\CSharpProgrammingCoursePart2\4.07 ConvertBetweenNumericalSystems\4.07 ConvertBetweenNumericalSystems\bin\Debug\4.07 ConvertBetweenNumericalSystems.pdb
+C:\Users\marian.graurov\Documents\GitHub\CSharpProgrammingCoursePart2\4.07 ConvertBetweenNumericalSystems\4.07 ConvertBetweenNumericalSystems\obj\Debug\4.07 ConvertBetweenNumericalSystems.csprojResolveAssemblyReference.cache
