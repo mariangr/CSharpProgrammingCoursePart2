@@ -1,0 +1,6 @@
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.05 TagsToUpperString\8.05 TagsToUpperString\bin\Debug\8.05 TagsToUpperString.exe.config
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.05 TagsToUpperString\8.05 TagsToUpperString\bin\Debug\8.05 TagsToUpperString.exe
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.05 TagsToUpperString\8.05 TagsToUpperString\bin\Debug\8.05 TagsToUpperString.pdb
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.05 TagsToUpperString\8.05 TagsToUpperString\obj\Debug\8.05 TagsToUpperString.csprojResolveAssemblyReference.cache
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.05 TagsToUpperString\8.05 TagsToUpperString\obj\Debug\8.05 TagsToUpperString.exe
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.05 TagsToUpperString\8.05 TagsToUpperString\obj\Debug\8.05 TagsToUpperString.pdb

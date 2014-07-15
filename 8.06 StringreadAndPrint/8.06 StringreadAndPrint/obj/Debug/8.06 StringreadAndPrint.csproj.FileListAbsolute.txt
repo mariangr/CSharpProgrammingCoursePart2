@@ -1,0 +1,5 @@
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.06 StringreadAndPrint\8.06 StringreadAndPrint\bin\Debug\8.06 StringreadAndPrint.exe.config
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.06 StringreadAndPrint\8.06 StringreadAndPrint\bin\Debug\8.06 StringreadAndPrint.exe
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.06 StringreadAndPrint\8.06 StringreadAndPrint\bin\Debug\8.06 StringreadAndPrint.pdb
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.06 StringreadAndPrint\8.06 StringreadAndPrint\obj\Debug\8.06 StringreadAndPrint.exe
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\8.06 StringreadAndPrint\8.06 StringreadAndPrint\obj\Debug\8.06 StringreadAndPrint.pdb
